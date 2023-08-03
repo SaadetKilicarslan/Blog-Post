@@ -1,14 +1,11 @@
-# Blog-Post
-"MoodUp Soap Blog: Discover the enchanting world of handmade soap with MoodUp Soap Blog. Dive into informative articles about handmade soap benefits, ingredients, and recipes. Join us on this soap-making journey as we uncover the secrets behind these skin-loving artisanal delights.
-![image](https://github.com/ucarica/Blog-Post/assets/140449815/4c7bc5d2-b044-4678-bb7d-7af0e74b8e9d)
 
+# Project Title
+
+A brief description of what this project does and who it's for
 
 # MoodUp Soap Blog
 
 Welcome to MoodUp Soap Blog! This is a simple static website showcasing a blog about handmade soap. The blog features articles about the benefits of handmade soap, soap ingredients, and soap recipes.
-![image](https://github.com/ucarica/Blog-Post/assets/140449815/4aba37b8-1a34-4870-954f-afa6a764dce9)
-
-![image](https://github.com/ucarica/Blog-Post/assets/140449815/019c6d7d-829c-4956-8615-b9ec8b24e407)
 
 ## Table of Contents
 
